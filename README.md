@@ -1,7 +1,5 @@
 # SublimeLinter-tlint
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-tlint.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-tlint)
-
 This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [tlint](https://github.com/tightenco/tlint). It will be used with files that have the "PHP" and "Blade" syntax.
 
 ## Installation
